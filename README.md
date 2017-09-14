@@ -59,8 +59,9 @@ Building on stretch one, create new functionality where a user can click on an a
 
 
 # MODULES: 
-Add the following stories to the Pivotal Tracker, complete the work, deploy to firebase, and submit a pull request to https://github.com/gSchool/playlist_module_[module_number] 
-For example, if you just completed module 3, submit a pull request to https://github.com/gSchool/playlist_module_3
+Follow the stories below. 
+Add the following stories to the Pivotal Tracker (optional).  
+Complete the work for each step. 
 
 
 ## Module 1: STRUCTURE AND CSS
