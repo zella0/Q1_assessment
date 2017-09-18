@@ -66,7 +66,7 @@ Complete the work for each step.
 
 ## Module 1: STRUCTURE AND CSS
 
-* As a user, when I visit the spash page, I should see a page whose general layout matches the design mockup [excluding dynamic content] 
+* As a user, when I visit the splash page, I should see a page whose general layout matches the design mockup [excluding dynamic content] 
 
 * As a user, when I visit the splash page, I should see a railroad track with 19% opacity on the right hand side. 
 
