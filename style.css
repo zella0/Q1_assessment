@@ -1,0 +1,66 @@
+.nav-wrapper {
+  height: 7.5vh;
+  background-color: #8e8e8e;
+  border-bottom: 1px solid black;
+}
+
+.col {
+  height: 85vh;
+}
+
+.left-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.leftCont h3 {
+  margin-top: 0;
+}
+
+.right-div {
+  position: relative;
+  z-index: 1;
+}
+
+.right-div .bg {
+  padding: 0 !important;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: url('resources/track.jpg') center center;
+  opacity: .2;
+  background-size: 100%;
+}
+
+.mainDisplay {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dynImgs {
+  margin: 10px 0;
+}
+
+.btn {
+  border-radius: 5px;
+  background-color: #3a3a3a;
+}
+
+.page-footer {
+  height: 7.5vh;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  background-color: #4f4f4f;
+}
+
+.footer-txt {
+  margin: 0 100px;
+}

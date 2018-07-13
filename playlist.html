@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="tracksStyle.css">
+</head>
+
+<body>
+  <nav class="nav-wrapper">
+    <div class="container">
+      <h5>Click an album to add its tracks to the bin</h5>
+    </div>
+  </nav>
+
+  <div class="scrollmenu">
+    <div class="container" id="albumBox">
+    </div>
+  </div>
+
+  <div class="container mainCont">
+    <div class="selectionCont row">
+      <div class="col s4 albumCont">
+        <p style="margin: 5 0">Add tracks from...</p>
+        <div class="container" id="songInfo">
+
+        </div>
+      </div>
+      <div class="col s4 tracksCont collection" id="tracksCont">
+        <div id="songsName">
+
+        </div>
+        <div id="songsTime">
+
+        </div>
+      </div>
+      <div>
+        <i class="material-icons" style="font-size: 50px">arrow_forward</i>
+      </div>
+      <div class="col s4 chosenTracksCont" id="chosenTracks">
+        <div id="chosenLeft">
+
+        </div>
+        <div id="chosenRight">
+
+        </div>
+      </div>
+    </div>
+    <div class="submitBtn">
+        <a class="waves-effect waves-light btn clear" id="clearBtn">Clear Tracks</a>
+        <a class="waves-effect waves-light btn submitBin" id="submitBin">Submit Bin</a>
+    </div>
+  </div>
+
+
+  <footer class="page-footer">
+    <div class="container footer-txt">
+      <div class="row">
+        © Nhan
+      </div>
+    </div>
+
+  </footer>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+  <script type="text/javascript" src="playlist.js"></script>
+</body>
+</html>

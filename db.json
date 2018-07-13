@@ -1,0 +1,122 @@
+{
+  "results":
+  [
+    {
+      "id": 1,
+      "album": "Alvvays",
+      "artist": "Alvvays",
+      "cover_art": "images/alvvays new cover.jpg",
+      "songs": [
+        {"Adult Diversion": "3:28"},
+    {"Archie, Marry Me":	"3:17"},
+    {"Ones Who Love You": "3:47"},
+    {"Next of Kin": "3:46"},
+    {"Party Police": "3:48"}
+      ]
+    },
+    {
+      "id": 2,
+      "album": "Antisocialites",
+      "artist": "Alvvays", "cover_art":"images/Alvvays_2014.jpg",
+      "songs": [
+        {"Forget About Life": "2:42"},
+        {"Already Gone": "3:03"},
+        {"In Undertow": "3:17"},
+        {"Dreams Tonite": "3:16"},
+        {"Not My Baby": "4:16"}
+      ]
+    },
+    {
+      "id": 3,
+      "album": "Bloom",
+      "artist": "Beach House",
+      "cover_art": "images/600x600bf.jpg",
+      "songs": [
+        {"Myth": "4:20"},
+        {"Wild": "4:58"},
+        {"Lazuli": "5:02"},
+        {"Other People": "4:24"},
+        {"The Hours":"4:08"},
+        {"Troublemaker":"4:56"}
+      ]
+    },
+    {
+      "id": 4,
+      "album": "Alvvays",
+      "artist": "Alvvays",
+      "cover_art": "images/alvvays new cover.jpg",
+      "songs": [
+        {"Adult Diversion": "3:28"},
+    {"Archie, Marry Me":	"3:17"},
+    {"Ones Who Love You": "3:47"},
+    {"Next of Kin": "3:46"},
+    {"Party Police": "3:48"}
+      ]
+    },
+    {
+      "id": 5,
+      "album": "Antisocialites",
+      "artist": "Alvvays", "cover_art":"images/Alvvays_2014.jpg",
+      "songs": [
+        {"Forget About Life": "2:42"},
+        {"Already Gone": "3:03"},
+        {"In Undertow": "3:17"},
+        {"Dreams Tonite": "3:16"},
+        {"Not My Baby": "4:16"}
+      ]
+    },
+    {
+      "id": 6,
+      "album": "Bloom",
+      "artist": "Beach House",
+      "cover_art": "images/600x600bf.jpg",
+      "songs": [
+        {"Myth": "4:20"},
+        {"Wild": "4:58"},
+        {"Lazuli": "5:02"},
+        {"Other People": "4:24"},
+        {"The Hours":"4:08"},
+        {"Troublemaker":"4:56"}
+      ]
+    },
+    {
+      "id": 7,
+      "album": "Alvvays",
+      "artist": "Alvvays",
+      "cover_art": "images/alvvays new cover.jpg",
+      "songs": [
+        {"Adult Diversion": "3:28"},
+    {"Archie, Marry Me":	"3:17"},
+    {"Ones Who Love You": "3:47"},
+    {"Next of Kin": "3:46"},
+    {"Party Police": "3:48"}
+      ]
+    },
+    {
+      "id": 8,
+      "album": "Antisocialites",
+      "artist": "Alvvays", "cover_art":"images/Alvvays_2014.jpg",
+      "songs": [
+        {"Forget About Life": "2:42"},
+        {"Already Gone": "3:03"},
+        {"In Undertow": "3:17"},
+        {"Dreams Tonite": "3:16"},
+        {"Not My Baby": "4:16"}
+      ]
+    },
+    {
+      "id": 9,
+      "album": "Bloom",
+      "artist": "Beach House",
+      "cover_art": "images/600x600bf.jpg",
+      "songs": [
+        {"Myth": "4:20"},
+        {"Wild": "4:58"},
+        {"Lazuli": "5:02"},
+        {"Other People": "4:24"},
+        {"The Hours":"4:08"},
+        {"Troublemaker":"4:56"}
+      ]
+    }
+  ]
+}

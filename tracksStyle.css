@@ -1,0 +1,120 @@
+.nav-wrapper {
+  position:relative;
+  height: 15vh;
+  background-color: #8e8e8e;
+  border-bottom: 1px solid black;
+}
+
+.container h5{
+  position:absolute;
+  bottom:0;
+  font-weight: 220;
+  letter-spacing: 1px;
+}
+
+.mainCont {
+  width: 80vw;
+  height: 65vh;
+}
+
+/* scroll menu  */
+div.scrollmenu{
+  display: block;
+  height: 12.5vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #e0e0e0;
+  white-space: nowrap;
+}
+
+div.scrollmenu img:hover {
+  background-color: #777;
+}
+
+/*  */
+
+#albumBox{
+  display: block;
+  overflow: auto;
+}
+
+/* DISPLAY LIST CONTENT */
+.selectionCont{
+  display:flex;
+  height: 45vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.albumCont{
+  display:flex;
+  flex-direction: column;
+  height:35vh;
+  margin: 20px;
+  padding-left: 0 !important;
+  transform: translate(10px);
+}
+
+#songInfo{
+  display: flex;
+  flex-direction: column;
+  margin-left: 0;
+  position: absolute;
+  bottom: 0;
+}
+
+.tracksCont{
+  display:flex;
+  background-color: #d8d8d8;
+  border: 1px solid black;
+  height:35vh;
+  margin: 20px;
+  transform: translate(10px);
+  justify-content: space-between;
+  overflow-y: auto;
+}
+
+.chosenTracksCont{
+  display:flex;
+  background-color: #d8d8d8;
+  border: 1px solid black;
+  height:35vh;
+  margin: 20px;
+  transform: translate(10px);
+  justify-content: space-between;
+  overflow-y: auto;
+}
+/*  */
+
+
+.submitBtn{
+  display: flex;
+}
+
+.clear{
+  padding: 0 50px;
+  margin-right: 20px;
+}
+.submitBin{
+  padding: 0 50px;
+}
+
+
+.btn {
+  border-radius: 5px;
+  background-color: #3a3a3a;
+}
+
+.page-footer {
+  height: 7.5vh;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  background-color: #4f4f4f;
+}
+
+.footer-txt {
+  margin: 0 100px;
+}
